@@ -1,4 +1,4 @@
-# saltstack
+# SaltStack
 
 SaltStack, also known as Salt, is a configuration management and orchestration tool. It uses a central repository to provision new servers and other IT infrastructure, to make changes to existing ones, and to install software in IT environments, including physical and virtual servers, as well as the cloud.
 
