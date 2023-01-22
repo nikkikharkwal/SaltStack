@@ -21,7 +21,7 @@ file. managed::
 > Yes, SaltStack can support backing up managed files.
 
 ### How can you proceed with the Minion upgrade without restarting automatically?
- >  {%- if grains[family] == 'Debian' %} 
+ >  if grains[family] == 'Debian'
  
 > Disable the starting services –
 ``` file.managed:
