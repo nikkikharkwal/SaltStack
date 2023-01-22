@@ -71,3 +71,6 @@ file.absent:
 
 ### On the Firewall option, what port are you supposed to open?
 > The Minions are to be connected to Master on TCP ports 4506 as well as 4505. They don’t actually need any inbound port open.
+
+
+### The official documentation for SaltStack can be found at https://docs.saltstack.com/.
